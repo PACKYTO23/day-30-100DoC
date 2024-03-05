@@ -5,3 +5,4 @@ Day 30 - Errors, Exceptions and Saving JSON Data
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (04/03/2024); update tomorrow.
+  Finished practice (05/03/2024); updated.
